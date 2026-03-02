@@ -1,0 +1,184 @@
+body{
+    background-color: #fe3273;
+  overflow-x: hidden;
+}
+.two{
+     background-color: #fe3273;
+    height: 460px;
+     width: 500px;
+}
+.three{
+    width: 450px;
+   
+}
+.click{
+    background-color: #fe3273;
+}
+.click:hover{
+    background-color: rgb(252, 170, 197);
+    color:black;
+}
+.logoname{
+    font-size: 45px;
+    font-weight: 400;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button{
+    border-radius: 7px;
+}
+.button:hover{
+    border: 1px solid white;
+}
+.head{
+    margin-left: 40px;
+    font-size: 17px;
+}
+.icecream{
+  margin-left: 380px;
+ margin-top:40px;
+  height: 710px;
+transition: all 2s;
+}
+.icecream:hover{
+    transform: scale(1.1);
+}
+.heading{
+    font-family:'Fruktur' ;
+    margin-left: 420px;
+margin-top: -200px;
+    font-size: 130px;
+}
+.box{
+    width: 1600px;
+    margin-left: -30px;
+}
+.pic1{
+    transition: all 2s;
+   
+}
+.pic1:hover{
+    transform: scale(1.1);
+    border: 3px solid rgb(232, 74, 74);
+}
+
+
+.pic2{
+    transition: all 2s;
+}
+.pic2:hover{
+    transform: scale(1.1);
+    border: 3px solid rgb(99, 38, 38);
+}
+
+
+.pic3{
+    transition: all 2s;
+}
+.pic3:hover{
+    transform: scale(1.1);
+    border: 3px solid rgb(198, 154, 19)
+}
+
+
+.pic4{
+    transition: all 2s;
+}
+.pic4:hover{
+    transform: scale(1.1);
+    border: 3px solid rgb(77, 36, 77)
+}
+
+.box2{
+    margin-top: -150px;
+}
+
+.image1{
+    transition: all 2s;
+
+}
+.image1:hover{
+    transform: scale(1.1);
+    background-color: palevioletred;
+}
+
+.image2{
+    transition: all 2s;
+
+}
+.image2:hover{
+    transform: scale(1.1);
+    background-color: rgb(251, 251, 157);
+}
+
+.image3{
+    transition: all 2s;
+
+}
+.image3:hover{
+    transform: scale(1.1);
+    background-color: palegreen;
+}
+
+.image4{
+    transition: all 2s;
+
+}
+.image4:hover{
+    transform: scale(1.1);
+    background-color: wheat;
+}
+
+.image5{
+    transition: all 2s;
+
+}
+.image5:hover{
+    transform: scale(1.1);
+    background-color: plum;
+}
+
+.image6{
+    transition: all 2s;
+
+}
+.image6:hover{
+    transform: scale(1.1);
+    background-color: rgb(187, 154, 131);
+}
+
+
+.image7{
+    transition: all 2s;
+
+}
+.image7:hover{
+    transform: scale(1.1);
+    background-color: rgb(255, 171, 111);
+}
+
+.image8{
+    transition: all 2s;
+
+}
+.image8:hover{
+    transform: scale(1.1);
+    background-color: rgb(146, 93, 56);
+   
+}
+.one{
+    margin-top: -120px;
+}
+
+.four{
+    background-color: #fe3273;
+    border: 3px solid white;
+    margin-left: 470px;
+   position: relative;
+   top: -250px;
+  
+}
+.button1{
+ margin-left: 95px;
+       border-radius: 7px;
+}
+
